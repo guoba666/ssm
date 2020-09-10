@@ -1,0 +1,11 @@
+Found a 7 line (25 tokens) duplication in the following files: 
+Starting at line 8 of D:\elipse java\ssm\src\com\how2java\pojo\LoginRecord.java
+Starting at line 6 of D:\elipse java\ssm\src\com\how2java\pojo\User.java
+
+	public String getAccount() {
+		return account;
+	}
+	public void setAccount(String account) {
+		this.account = account;
+	}
+	public String getTime() {

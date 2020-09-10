@@ -1,0 +1,293 @@
+		div.head{
+			width:100%;
+			height:50px;
+			background-color: rgb(44, 62, 80);
+			position: fixed;
+			top:0px;
+			left: 0px;
+			color:white;
+			font-size: 16px;
+		}
+		button{
+			outline: none !important;
+		}
+		span.school_name{
+			margin: 5px 15px;
+			line-height: 45px;
+		}
+		div.user_info{
+			width: 200px;
+		}
+		div.user_info span{
+			margin: 0px 15px;
+			line-height:45px;
+		}
+		div.body_div{
+			width:950px;
+			margin: 60px auto;
+		}
+		div.body_div .nav{
+			position: relative;
+			height: 41px;
+			background-color:rgb(44, 62, 80);
+		}
+		div.body_div .nav a{
+			display: inline-block;
+			position: relative;
+			text-decoration: none;
+		}
+		div.body_div .nav span{
+			color:white;
+			font-size: 17px;
+			line-height: 40px;
+			display: inline-block;
+			padding-left: 57px;
+		}
+		div.body_div div.hide_div#hide_d1{
+			width:130px;
+			height:50px;
+			position: absolute;
+			left:20px;
+			background-color:rgb(44, 62, 80);
+			display:none;
+			z-index: 2;
+		}
+		div.body_div div.hide_div#hide_d2{
+			width:130px;
+			height:135px;
+			position: absolute;
+			left:278px;
+			background-color:rgb(44, 62, 80);
+			display:none;
+			z-index: 2;
+		}
+		div.body_div div.hide_div#hide_d3{
+			width:130px;
+			height:135px;
+			position: absolute;
+			left:405px;
+			background-color:rgb(44, 62, 80);
+			display:none;
+			z-index: 2;
+		}
+		div.body_div div.hide_div#hide_d4{
+			width:130px;
+			height:325px;
+			position: absolute;
+			left:650px;
+			background-color:rgb(44, 62, 80);
+			display:none;
+			z-index: 2;
+		}
+		div.body_div div.hide_div#hide_d5{
+			width:130px;
+			height:95px;
+			position: absolute;
+			left:778px;
+			background-color:rgb(44, 62, 80);
+			display:none;
+			z-index: 2;
+		}
+		div.hide_div span{
+			color:white;
+			font-size: 15px;
+			line-height: 40px;
+			display: inline-block;
+			margin-left:-20px !important;
+		}
+		div.hide_div a{
+			text-decoration: none;
+		}
+		
+		div.phead{
+			height: 40px;
+			background-color:rgb(44, 62, 80);
+		}
+		div.phead span{
+			color:white;
+			font-size: 16px;
+			line-height: 40px;
+			margin-left:20px;
+		}
+		div.content_div textarea{
+			resize: none;
+			display: block;
+			float: right;
+		}
+		div.pbody{
+			border:1px solid black;
+		}
+		div#myTabContent div.row span{
+			line-height: 85px;
+			font-weight: bold;
+			margin-left: 150px;
+		}
+		div.myradio{
+			margin-top:-15px;
+			margin-left:150px;
+		}
+		div.row textarea{
+			display: block;
+			margin-left:-40px;
+			margin-top:-15px;
+		}
+		div.pbody div.informs_check{
+			width: 150px;
+			height: 30px;
+			float: right;
+			margin:10px 20px;
+			
+		}
+		div.option_div{
+			position: relative;
+		}
+		div.option_div select{
+			margin-top:5px;
+			width:80px;
+		}
+		span.glyphicon{
+			cursor: pointer;
+		}
+		div.pbody button.btn-primary{
+			border-radius: 10px;
+		}
+		div.pbody button.btn-danger{
+			border-radius: 13px;
+		}
+		div#ClassOperateArea,#TeacherOperateArea{
+			position: absolute;
+			top:5px;
+			right:10px;
+			line-height:30px;
+		}
+		#addClass-btn,#addTeacher-btn{
+			margin-rigth:5px;
+			background-color:rgb(44, 62, 80);
+			color:white;
+			opacity: 0.9;
+		}
+		#addClass-btn,#addTeacher-btn:hover{
+			opacity: 1;
+		}
+		#teacherSeach-content{
+			margin-top:8px;
+		}
+		#teacherSeach-btn{
+			background-color:rgb(44, 62, 80);
+			color:white;
+			opacity: 0.9;
+		}
+		#teacherSeach-btn:hover{
+			opacity: 1;
+		}
+		input#uploadTeacher{
+			display: inline-block;
+			width:78px;
+			font-size: 15px;
+		}
+		a#downloadTeacher{
+			cursor: pointer;
+			color:black;
+			font-weight: bold;
+			font-size: 17px;
+			text-decoration: none;
+		}
+		a#downloadTeacher:hover{
+			color:deepskyblue;
+		}
+		div#AddTeacherTabContent{
+			margin-top: 20px;
+		}
+		div.tab-content div.row span{
+			font-weight: bold;
+			line-height: 30px;
+			font-size: 15px;
+		}
+		div.tab-content div.row{
+			margin-top: 20px;
+		}
+		div#AddTeacherTabContent div#t2 button{
+			border-radius: 12px;
+			outline: none;
+		}
+		div#addClassTabContent select{
+			width:100px;
+		}
+		div#addClassTabContent span#addClassResult{
+			font-weight: 1;
+		}
+		div#addClassTabContent input#addClassName{
+			display: none;
+			width:80px;
+		}
+		div#addClassModal button#addClassAll-btn{
+			display: none;
+		}
+		div#addClassModal div#addClassTabContent div#t2 select#allClassSelect{
+			width:200px;
+			height:290px;
+		}
+		div#addClassModal div#addClassTabContent div#t2 button#addClass-btn-add,#addClass-btn-delete{
+			line-height: 40px;
+			width:80px;
+			font-size: 14px;
+			font-weight: bold;
+			margin-top:50px;
+			margin-left: 20px;
+			margin-right: 20px;
+			outline: none;
+		}
+		div#addClassModal div#addClassTabContent div#t2 select#allClassResult{
+			margin-left: 20px;
+			width:200px;
+			height:290px;
+		}
+		input.tableInput{
+			cursor:text;
+			width:100px;
+			background-color:transparent;
+			border:none;
+		}
+		tbody td{
+			position: relative;
+		}
+		tbody button[id^="classAlter"]{
+			position: absolute;
+			top:9px;
+			right:75px;
+		}
+		tbody button[id^="classDelete"]{
+			position: absolute;
+			top:9px;
+			right:46px;
+		}
+		tbody button[id^="classSave"]{
+			display: none;
+			position: absolute;
+			top:9px;
+			right:75px;
+		}
+		tbody button[id^="classCancel"]{
+			display: none;
+			position: absolute;
+			top:9px;
+			right:46px;
+		}
+		option[class='addFailed']{
+			color:red;
+		}
+		ul#pageUl{
+			margin:20px;
+			text-align: center;
+			margin-left: -10px;
+		}
+		ul#pageUl li{
+			display: inline-block;
+		}
+		ul#pageUl li#currentPage{
+			margin: 10px;
+			font-size: 16px;
+			vertical-align: center;
+		}
+		
+		

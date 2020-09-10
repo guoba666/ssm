@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+	PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+	<mapper namespace="com.how2java.mapper.UserMapper">
+	    <insert id="add" parameterType="User" >
+	        insert into user_  values (#{account},#{pwd})    
+	    </insert>
+	    
+	    <select id="get" parameterType="string" resultType="User">
+	        select * from user_  where account= #{account}    
+	    </select>
+
+	    <update id="update" parameterType="User" >
+	        update user_ set pwd=#{pwd} where account=#{account}    
+	    </update>
+		
+		<select id="isAccountExist" resultType="int">
+			select count(*) from user_ where account like #{account}
+		</select>
+		
+		<insert id="loginRecord" parameterType="string">
+			insert into record_(account) values(#{account})
+		</insert>
+		
+		
+		<!--分页前的数据记录查询  
+		<select id="listRecord" resultType="string">
+			select logintime from record_ where account=#{account}
+		</select>
+		-->
+		<select id="listRecord" resultType="string">
+			select logintime from record_ where account=#{account}
+			 <if test="page.start!=null and page.count!=null">
+                    limit #{page.start},#{page.count}
+            </if>
+		</select>
+		
+		<select id="total" resultType="int" parameterType="string">
+			select count(*) from record_ where account=#{account}
+		</select>
+		
+		<!-- 班级操作 -->
+		<insert id="addClass" parameterType="Class">
+			insert into class_ values(classId,gradeNumber,gradeName,classNumber,className);
+		</insert>
+	</mapper>

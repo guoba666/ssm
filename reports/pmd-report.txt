@@ -1,0 +1,378 @@
+src/com/how2java/controller/UserController.java:26:	Each class should declare at least one constructor
+src/com/how2java/controller/UserController.java:26:	Each class should declare at least one constructor
+src/com/how2java/controller/UserController.java:26:	Header comments are required
+src/com/how2java/controller/UserController.java:26:	Header comments are required
+src/com/how2java/controller/UserController.java:26:	This class has too many methods, consider refactoring it.
+src/com/how2java/controller/UserController.java:26:	This class has too many methods, consider refactoring it.
+src/com/how2java/controller/UserController.java:28:	Use explicit scoping instead of the default package private level
+src/com/how2java/controller/UserController.java:28:	Use explicit scoping instead of the default package private level
+src/com/how2java/controller/UserController.java:29:	Field comments are required
+src/com/how2java/controller/UserController.java:29:	Field comments are required
+src/com/how2java/controller/UserController.java:29:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/how2java/controller/UserController.java:29:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/how2java/controller/UserController.java:29:	To avoid mistakes add a comment at the beginning of the userService field if you want a default access modifier
+src/com/how2java/controller/UserController.java:29:	To avoid mistakes add a comment at the beginning of the userService field if you want a default access modifier
+src/com/how2java/controller/UserController.java:33:	A method/constructor should not explicitly throw java.lang.Exception
+src/com/how2java/controller/UserController.java:33:	A method/constructor should not explicitly throw java.lang.Exception
+src/com/how2java/controller/UserController.java:33:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:33:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:33:	Parameter 'pwd' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:33:	Parameter 'pwd' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:33:	Parameter 'session' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:33:	Parameter 'session' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:33:	Parameter 'user' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:33:	Parameter 'user' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:33:	Public method and constructor comments are required
+src/com/how2java/controller/UserController.java:33:	Public method and constructor comments are required
+src/com/how2java/controller/UserController.java:33:	The String literal "account" appears 4 times in this file; the first occurrence is on line 33
+src/com/how2java/controller/UserController.java:33:	The String literal "account" appears 4 times in this file; the first occurrence is on line 33
+src/com/how2java/controller/UserController.java:34:	Local variable 'message' could be declared final
+src/com/how2java/controller/UserController.java:34:	Local variable 'message' could be declared final
+src/com/how2java/controller/UserController.java:36:	Consider simply returning the value vs storing it in local variable 'message'
+src/com/how2java/controller/UserController.java:36:	Consider simply returning the value vs storing it in local variable 'message'
+src/com/how2java/controller/UserController.java:40:	Public method and constructor comments are required
+src/com/how2java/controller/UserController.java:40:	Public method and constructor comments are required
+src/com/how2java/controller/UserController.java:46:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:46:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:46:	Parameter 'pwd' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:46:	Parameter 'pwd' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:46:	Public method and constructor comments are required
+src/com/how2java/controller/UserController.java:46:	Public method and constructor comments are required
+src/com/how2java/controller/UserController.java:48:	Found 'DU'-anomaly for variable 'find' (lines '48'-'59').
+src/com/how2java/controller/UserController.java:48:	Found 'DU'-anomaly for variable 'find' (lines '48'-'59').
+src/com/how2java/controller/UserController.java:48:	Local variable 'find' could be declared final
+src/com/how2java/controller/UserController.java:48:	Local variable 'find' could be declared final
+src/com/how2java/controller/UserController.java:62:	Public method and constructor comments are required
+src/com/how2java/controller/UserController.java:62:	Public method and constructor comments are required
+src/com/how2java/controller/UserController.java:68:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:68:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:68:	Parameter 'newpwd' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:68:	Parameter 'newpwd' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:68:	Parameter 'pwd' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:68:	Parameter 'pwd' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:68:	Public method and constructor comments are required
+src/com/how2java/controller/UserController.java:68:	Public method and constructor comments are required
+src/com/how2java/controller/UserController.java:75:	System.out.println is used
+src/com/how2java/controller/UserController.java:75:	System.out.println is used
+src/com/how2java/controller/UserController.java:78:	Comment is too large: Too many lines
+src/com/how2java/controller/UserController.java:78:	Comment is too large: Too many lines
+src/com/how2java/controller/UserController.java:91:	Parameter 'page' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:91:	Parameter 'page' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:91:	Parameter 'session' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:91:	Parameter 'session' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:91:	Public method and constructor comments are required
+src/com/how2java/controller/UserController.java:91:	Public method and constructor comments are required
+src/com/how2java/controller/UserController.java:92:	Local variable 'mav' could be declared final
+src/com/how2java/controller/UserController.java:92:	Local variable 'mav' could be declared final
+src/com/how2java/controller/UserController.java:93:	Local variable 'account' could be declared final
+src/com/how2java/controller/UserController.java:93:	Local variable 'account' could be declared final
+src/com/how2java/controller/UserController.java:94:	Local variable 'record_list' could be declared final
+src/com/how2java/controller/UserController.java:94:	Local variable 'record_list' could be declared final
+src/com/how2java/controller/UserController.java:94:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'record_list' is not final.
+src/com/how2java/controller/UserController.java:94:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'record_list' is not final.
+src/com/how2java/controller/UserController.java:94:	The local variable name 'record_list' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/how2java/controller/UserController.java:94:	The local variable name 'record_list' doesn't match '[a-z][a-zA-Z0-9]*'
+src/com/how2java/controller/UserController.java:95:	Local variable 'total' could be declared final
+src/com/how2java/controller/UserController.java:95:	Local variable 'total' could be declared final
+src/com/how2java/controller/UserController.java:103:	Public method and constructor comments are required
+src/com/how2java/controller/UserController.java:103:	Public method and constructor comments are required
+src/com/how2java/controller/UserController.java:104:	Local variable 'mav' could be declared final
+src/com/how2java/controller/UserController.java:104:	Local variable 'mav' could be declared final
+src/com/how2java/controller/UserController.java:105:	Potential violation of Law of Demeter (method chain calls)
+src/com/how2java/controller/UserController.java:105:	Potential violation of Law of Demeter (method chain calls)
+src/com/how2java/controller/UserController.java:110:	Parameter 'request' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:110:	Parameter 'request' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:110:	Parameter 'response' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:110:	Parameter 'response' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:110:	Parameter 'session' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:110:	Parameter 'session' is not assigned and could be declared final
+src/com/how2java/controller/UserController.java:110:	Public method and constructor comments are required
+src/com/how2java/controller/UserController.java:110:	Public method and constructor comments are required
+src/com/how2java/controller/UserController.java:116:	Public method and constructor comments are required
+src/com/how2java/controller/UserController.java:116:	Public method and constructor comments are required
+src/com/how2java/controller/UserController.java:120:	Public method and constructor comments are required
+src/com/how2java/controller/UserController.java:120:	Public method and constructor comments are required
+src/com/how2java/controller/UserController.java:124:	Public method and constructor comments are required
+src/com/how2java/controller/UserController.java:124:	Public method and constructor comments are required
+src/com/how2java/interceptor/LoginInterceptor.java:12:	Each class should declare at least one constructor
+src/com/how2java/interceptor/LoginInterceptor.java:12:	Each class should declare at least one constructor
+src/com/how2java/interceptor/LoginInterceptor.java:12:	Header comments are required
+src/com/how2java/interceptor/LoginInterceptor.java:12:	Header comments are required
+src/com/how2java/interceptor/LoginInterceptor.java:14:	Avoid variables with short names like o
+src/com/how2java/interceptor/LoginInterceptor.java:14:	Avoid variables with short names like o
+src/com/how2java/interceptor/LoginInterceptor.java:14:	Parameter 'o' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:14:	Parameter 'o' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:14:	Parameter 'request' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:14:	Parameter 'request' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:14:	Parameter 'response' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:14:	Parameter 'response' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:20:	Local variable 'session' could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:20:	Local variable 'session' could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:21:	Local variable 'user' could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:21:	Local variable 'user' could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:21:	Potential violation of Law of Demeter (object not created locally)
+src/com/how2java/interceptor/LoginInterceptor.java:21:	Potential violation of Law of Demeter (object not created locally)
+src/com/how2java/interceptor/LoginInterceptor.java:24:	System.out.println is used
+src/com/how2java/interceptor/LoginInterceptor.java:24:	System.out.println is used
+src/com/how2java/interceptor/LoginInterceptor.java:25:	Potential violation of Law of Demeter (method chain calls)
+src/com/how2java/interceptor/LoginInterceptor.java:25:	Potential violation of Law of Demeter (method chain calls)
+src/com/how2java/interceptor/LoginInterceptor.java:26:	A method should have only one exit point, and that should be the last statement in the method
+src/com/how2java/interceptor/LoginInterceptor.java:26:	A method should have only one exit point, and that should be the last statement in the method
+src/com/how2java/interceptor/LoginInterceptor.java:28:	System.out.println is used
+src/com/how2java/interceptor/LoginInterceptor.java:28:	System.out.println is used
+src/com/how2java/interceptor/LoginInterceptor.java:36:	Parameter 'arg0' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:36:	Parameter 'arg0' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:36:	Parameter 'arg1' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:36:	Parameter 'arg1' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:36:	Parameter 'arg2' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:36:	Parameter 'arg2' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:36:	Parameter 'arg3' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:36:	Parameter 'arg3' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:40:	System.out.println is used
+src/com/how2java/interceptor/LoginInterceptor.java:40:	System.out.println is used
+src/com/how2java/interceptor/LoginInterceptor.java:44:	Parameter 'arg2' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:44:	Parameter 'arg2' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:44:	Parameter 'arg3' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:44:	Parameter 'arg3' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:44:	Parameter 'request' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:44:	Parameter 'request' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:44:	Parameter 'response' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:44:	Parameter 'response' is not assigned and could be declared final
+src/com/how2java/interceptor/LoginInterceptor.java:48:	System.out.println is used
+src/com/how2java/interceptor/LoginInterceptor.java:48:	System.out.println is used
+src/com/how2java/mapper/UserMapper.java:10:	Header comments are required
+src/com/how2java/mapper/UserMapper.java:10:	Header comments are required
+src/com/how2java/mapper/UserMapper.java:12:	Public method and constructor comments are required
+src/com/how2java/mapper/UserMapper.java:12:	Public method and constructor comments are required
+src/com/how2java/mapper/UserMapper.java:12:	Unnecessary modifier 'public' on method 'add': the method is declared in an interface type
+src/com/how2java/mapper/UserMapper.java:12:	Unnecessary modifier 'public' on method 'add': the method is declared in an interface type
+src/com/how2java/mapper/UserMapper.java:14:	Public method and constructor comments are required
+src/com/how2java/mapper/UserMapper.java:14:	Public method and constructor comments are required
+src/com/how2java/mapper/UserMapper.java:14:	Unnecessary modifier 'public' on method 'get': the method is declared in an interface type
+src/com/how2java/mapper/UserMapper.java:14:	Unnecessary modifier 'public' on method 'get': the method is declared in an interface type
+src/com/how2java/mapper/UserMapper.java:16:	Public method and constructor comments are required
+src/com/how2java/mapper/UserMapper.java:16:	Public method and constructor comments are required
+src/com/how2java/mapper/UserMapper.java:16:	Unnecessary modifier 'public' on method 'update': the method is declared in an interface type
+src/com/how2java/mapper/UserMapper.java:16:	Unnecessary modifier 'public' on method 'update': the method is declared in an interface type
+src/com/how2java/mapper/UserMapper.java:18:	Linguistics Antipattern - The method 'isAccountExist' indicates linguistically it returns a boolean, but it returns 'int'
+src/com/how2java/mapper/UserMapper.java:18:	Linguistics Antipattern - The method 'isAccountExist' indicates linguistically it returns a boolean, but it returns 'int'
+src/com/how2java/mapper/UserMapper.java:18:	Public method and constructor comments are required
+src/com/how2java/mapper/UserMapper.java:18:	Public method and constructor comments are required
+src/com/how2java/mapper/UserMapper.java:18:	Unnecessary modifier 'public' on method 'isAccountExist': the method is declared in an interface type
+src/com/how2java/mapper/UserMapper.java:18:	Unnecessary modifier 'public' on method 'isAccountExist': the method is declared in an interface type
+src/com/how2java/mapper/UserMapper.java:20:	Public method and constructor comments are required
+src/com/how2java/mapper/UserMapper.java:20:	Public method and constructor comments are required
+src/com/how2java/mapper/UserMapper.java:20:	Unnecessary modifier 'public' on method 'loginRecord': the method is declared in an interface type
+src/com/how2java/mapper/UserMapper.java:20:	Unnecessary modifier 'public' on method 'loginRecord': the method is declared in an interface type
+src/com/how2java/mapper/UserMapper.java:23:	Public method and constructor comments are required
+src/com/how2java/mapper/UserMapper.java:23:	Public method and constructor comments are required
+src/com/how2java/mapper/UserMapper.java:23:	Unnecessary modifier 'public' on method 'listRecord': the method is declared in an interface type
+src/com/how2java/mapper/UserMapper.java:23:	Unnecessary modifier 'public' on method 'listRecord': the method is declared in an interface type
+src/com/how2java/mapper/UserMapper.java:25:	Public method and constructor comments are required
+src/com/how2java/mapper/UserMapper.java:25:	Public method and constructor comments are required
+src/com/how2java/mapper/UserMapper.java:25:	Unnecessary modifier 'public' on method 'listRecord': the method is declared in an interface type
+src/com/how2java/mapper/UserMapper.java:25:	Unnecessary modifier 'public' on method 'listRecord': the method is declared in an interface type
+src/com/how2java/mapper/UserMapper.java:29:	Public method and constructor comments are required
+src/com/how2java/mapper/UserMapper.java:29:	Public method and constructor comments are required
+src/com/how2java/mapper/UserMapper.java:29:	Unnecessary modifier 'public' on method 'total': the method is declared in an interface type
+src/com/how2java/mapper/UserMapper.java:29:	Unnecessary modifier 'public' on method 'total': the method is declared in an interface type
+src/com/how2java/pojo/LoginRecord.java:5:	Each class should declare at least one constructor
+src/com/how2java/pojo/LoginRecord.java:5:	Each class should declare at least one constructor
+src/com/how2java/pojo/LoginRecord.java:5:	Header comments are required
+src/com/how2java/pojo/LoginRecord.java:5:	Header comments are required
+src/com/how2java/pojo/LoginRecord.java:5:	The class 'LoginRecord' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=4)
+src/com/how2java/pojo/LoginRecord.java:5:	The class 'LoginRecord' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=4)
+src/com/how2java/pojo/LoginRecord.java:6:	Field comments are required
+src/com/how2java/pojo/LoginRecord.java:6:	Field comments are required
+src/com/how2java/pojo/LoginRecord.java:7:	Field comments are required
+src/com/how2java/pojo/LoginRecord.java:7:	Field comments are required
+src/com/how2java/pojo/LoginRecord.java:11:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/pojo/LoginRecord.java:11:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/pojo/LoginRecord.java:17:	Parameter 'time' is not assigned and could be declared final
+src/com/how2java/pojo/LoginRecord.java:17:	Parameter 'time' is not assigned and could be declared final
+src/com/how2java/pojo/User.java:3:	Avoid short class names like User
+src/com/how2java/pojo/User.java:3:	Avoid short class names like User
+src/com/how2java/pojo/User.java:3:	Each class should declare at least one constructor
+src/com/how2java/pojo/User.java:3:	Each class should declare at least one constructor
+src/com/how2java/pojo/User.java:3:	Header comments are required
+src/com/how2java/pojo/User.java:3:	Header comments are required
+src/com/how2java/pojo/User.java:3:	The class 'User' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=4)
+src/com/how2java/pojo/User.java:3:	The class 'User' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=4)
+src/com/how2java/pojo/User.java:4:	Field comments are required
+src/com/how2java/pojo/User.java:4:	Field comments are required
+src/com/how2java/pojo/User.java:5:	Field comments are required
+src/com/how2java/pojo/User.java:5:	Field comments are required
+src/com/how2java/pojo/User.java:9:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/pojo/User.java:9:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/pojo/User.java:15:	Parameter 'pwd' is not assigned and could be declared final
+src/com/how2java/pojo/User.java:15:	Parameter 'pwd' is not assigned and could be declared final
+src/com/how2java/service/UserService.java:5:	Avoid unused imports such as 'com.how2java.pojo.User'
+src/com/how2java/service/UserService.java:5:	Avoid unused imports such as 'com.how2java.pojo.User'
+src/com/how2java/service/UserService.java:9:	Header comments are required
+src/com/how2java/service/UserService.java:9:	Header comments are required
+src/com/how2java/service/UserService.java:11:	Public method and constructor comments are required
+src/com/how2java/service/UserService.java:11:	Public method and constructor comments are required
+src/com/how2java/service/UserService.java:11:	Unnecessary modifier 'public' on method 'checklogin': the method is declared in an interface type
+src/com/how2java/service/UserService.java:11:	Unnecessary modifier 'public' on method 'checklogin': the method is declared in an interface type
+src/com/how2java/service/UserService.java:13:	Public method and constructor comments are required
+src/com/how2java/service/UserService.java:13:	Public method and constructor comments are required
+src/com/how2java/service/UserService.java:13:	Unnecessary modifier 'public' on method 'regist': the method is declared in an interface type
+src/com/how2java/service/UserService.java:13:	Unnecessary modifier 'public' on method 'regist': the method is declared in an interface type
+src/com/how2java/service/UserService.java:15:	Linguistics Antipattern - The method 'isAccountExist' indicates linguistically it returns a boolean, but it returns 'int'
+src/com/how2java/service/UserService.java:15:	Linguistics Antipattern - The method 'isAccountExist' indicates linguistically it returns a boolean, but it returns 'int'
+src/com/how2java/service/UserService.java:15:	Public method and constructor comments are required
+src/com/how2java/service/UserService.java:15:	Public method and constructor comments are required
+src/com/how2java/service/UserService.java:15:	Unnecessary modifier 'public' on method 'isAccountExist': the method is declared in an interface type
+src/com/how2java/service/UserService.java:15:	Unnecessary modifier 'public' on method 'isAccountExist': the method is declared in an interface type
+src/com/how2java/service/UserService.java:17:	Public method and constructor comments are required
+src/com/how2java/service/UserService.java:17:	Public method and constructor comments are required
+src/com/how2java/service/UserService.java:17:	Unnecessary modifier 'public' on method 'changePwd': the method is declared in an interface type
+src/com/how2java/service/UserService.java:17:	Unnecessary modifier 'public' on method 'changePwd': the method is declared in an interface type
+src/com/how2java/service/UserService.java:19:	Public method and constructor comments are required
+src/com/how2java/service/UserService.java:19:	Public method and constructor comments are required
+src/com/how2java/service/UserService.java:19:	Unnecessary modifier 'public' on method 'loginRecord': the method is declared in an interface type
+src/com/how2java/service/UserService.java:19:	Unnecessary modifier 'public' on method 'loginRecord': the method is declared in an interface type
+src/com/how2java/service/UserService.java:24:	Public method and constructor comments are required
+src/com/how2java/service/UserService.java:24:	Public method and constructor comments are required
+src/com/how2java/service/UserService.java:24:	Unnecessary modifier 'public' on method 'listRecord': the method is declared in an interface type
+src/com/how2java/service/UserService.java:24:	Unnecessary modifier 'public' on method 'listRecord': the method is declared in an interface type
+src/com/how2java/service/UserService.java:25:	Public method and constructor comments are required
+src/com/how2java/service/UserService.java:25:	Public method and constructor comments are required
+src/com/how2java/service/UserService.java:25:	Unnecessary modifier 'public' on method 'listRecord': the method is declared in an interface type
+src/com/how2java/service/UserService.java:25:	Unnecessary modifier 'public' on method 'listRecord': the method is declared in an interface type
+src/com/how2java/service/UserService.java:27:	Public method and constructor comments are required
+src/com/how2java/service/UserService.java:27:	Public method and constructor comments are required
+src/com/how2java/service/UserService.java:27:	Unnecessary modifier 'public' on method 'total': the method is declared in an interface type
+src/com/how2java/service/UserService.java:27:	Unnecessary modifier 'public' on method 'total': the method is declared in an interface type
+src/com/how2java/service/impl/UserServiceImpl.java:16:	Each class should declare at least one constructor
+src/com/how2java/service/impl/UserServiceImpl.java:16:	Each class should declare at least one constructor
+src/com/how2java/service/impl/UserServiceImpl.java:16:	Header comments are required
+src/com/how2java/service/impl/UserServiceImpl.java:16:	Header comments are required
+src/com/how2java/service/impl/UserServiceImpl.java:18:	Use explicit scoping instead of the default package private level
+src/com/how2java/service/impl/UserServiceImpl.java:18:	Use explicit scoping instead of the default package private level
+src/com/how2java/service/impl/UserServiceImpl.java:19:	Field comments are required
+src/com/how2java/service/impl/UserServiceImpl.java:19:	Field comments are required
+src/com/how2java/service/impl/UserServiceImpl.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/how2java/service/impl/UserServiceImpl.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/how2java/service/impl/UserServiceImpl.java:19:	To avoid mistakes add a comment at the beginning of the usermapper field if you want a default access modifier
+src/com/how2java/service/impl/UserServiceImpl.java:19:	To avoid mistakes add a comment at the beginning of the usermapper field if you want a default access modifier
+src/com/how2java/service/impl/UserServiceImpl.java:22:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:22:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:22:	Parameter 'pwd' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:22:	Parameter 'pwd' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:25:	Avoid variables with short names like u
+src/com/how2java/service/impl/UserServiceImpl.java:25:	Avoid variables with short names like u
+src/com/how2java/service/impl/UserServiceImpl.java:25:	Local variable 'u' could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:25:	Local variable 'u' could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:26:	Found 'DD'-anomaly for variable 'message' (lines '26'-'28').
+src/com/how2java/service/impl/UserServiceImpl.java:26:	Found 'DD'-anomaly for variable 'message' (lines '26'-'28').
+src/com/how2java/service/impl/UserServiceImpl.java:26:	Found 'DD'-anomaly for variable 'message' (lines '26'-'30').
+src/com/how2java/service/impl/UserServiceImpl.java:26:	Found 'DD'-anomaly for variable 'message' (lines '26'-'30').
+src/com/how2java/service/impl/UserServiceImpl.java:26:	Found 'DD'-anomaly for variable 'message' (lines '26'-'32').
+src/com/how2java/service/impl/UserServiceImpl.java:26:	Found 'DD'-anomaly for variable 'message' (lines '26'-'32').
+src/com/how2java/service/impl/UserServiceImpl.java:27:	Potential violation of Law of Demeter (method chain calls)
+src/com/how2java/service/impl/UserServiceImpl.java:27:	Potential violation of Law of Demeter (method chain calls)
+src/com/how2java/service/impl/UserServiceImpl.java:27:	Potential violation of Law of Demeter (method chain calls)
+src/com/how2java/service/impl/UserServiceImpl.java:27:	Potential violation of Law of Demeter (method chain calls)
+src/com/how2java/service/impl/UserServiceImpl.java:27:	Potential violation of Law of Demeter (object not created locally)
+src/com/how2java/service/impl/UserServiceImpl.java:27:	Potential violation of Law of Demeter (object not created locally)
+src/com/how2java/service/impl/UserServiceImpl.java:27:	Potential violation of Law of Demeter (object not created locally)
+src/com/how2java/service/impl/UserServiceImpl.java:27:	Potential violation of Law of Demeter (object not created locally)
+src/com/how2java/service/impl/UserServiceImpl.java:27:	Potential violation of Law of Demeter (object not created locally)
+src/com/how2java/service/impl/UserServiceImpl.java:27:	Potential violation of Law of Demeter (object not created locally)
+src/com/how2java/service/impl/UserServiceImpl.java:27:	Potential violation of Law of Demeter (object not created locally)
+src/com/how2java/service/impl/UserServiceImpl.java:27:	Potential violation of Law of Demeter (object not created locally)
+src/com/how2java/service/impl/UserServiceImpl.java:27:	Useless parentheses.
+src/com/how2java/service/impl/UserServiceImpl.java:27:	Useless parentheses.
+src/com/how2java/service/impl/UserServiceImpl.java:27:	Useless parentheses.
+src/com/how2java/service/impl/UserServiceImpl.java:27:	Useless parentheses.
+src/com/how2java/service/impl/UserServiceImpl.java:38:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:38:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:38:	Parameter 'pwd' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:38:	Parameter 'pwd' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:40:	Local variable 'user' could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:40:	Local variable 'user' could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:48:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:48:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:48:	Parameter 'newpwd' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:48:	Parameter 'newpwd' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:49:	Local variable 'user' could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:49:	Local variable 'user' could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:52:	Avoid variables with short names like x
+src/com/how2java/service/impl/UserServiceImpl.java:52:	Avoid variables with short names like x
+src/com/how2java/service/impl/UserServiceImpl.java:52:	Local variable 'x' could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:52:	Local variable 'x' could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:53:	System.out.println is used
+src/com/how2java/service/impl/UserServiceImpl.java:53:	System.out.println is used
+src/com/how2java/service/impl/UserServiceImpl.java:59:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:59:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:60:	Local variable 'find' could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:60:	Local variable 'find' could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:61:	Consider simply returning the value vs storing it in local variable 'find'
+src/com/how2java/service/impl/UserServiceImpl.java:61:	Consider simply returning the value vs storing it in local variable 'find'
+src/com/how2java/service/impl/UserServiceImpl.java:65:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:65:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:77:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:77:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:78:	Local variable 'list' could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:78:	Local variable 'list' could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:79:	Consider simply returning the value vs storing it in local variable 'list'
+src/com/how2java/service/impl/UserServiceImpl.java:79:	Consider simply returning the value vs storing it in local variable 'list'
+src/com/how2java/service/impl/UserServiceImpl.java:82:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:82:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:82:	Parameter 'page' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:82:	Parameter 'page' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:83:	Local variable 'list' could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:83:	Local variable 'list' could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:84:	Consider simply returning the value vs storing it in local variable 'list'
+src/com/how2java/service/impl/UserServiceImpl.java:84:	Consider simply returning the value vs storing it in local variable 'list'
+src/com/how2java/service/impl/UserServiceImpl.java:88:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/service/impl/UserServiceImpl.java:88:	Parameter 'account' is not assigned and could be declared final
+src/com/how2java/util/Page.java:4:	Avoid short class names like Page
+src/com/how2java/util/Page.java:4:	Avoid short class names like Page
+src/com/how2java/util/Page.java:4:	Each class should declare at least one constructor
+src/com/how2java/util/Page.java:4:	Each class should declare at least one constructor
+src/com/how2java/util/Page.java:4:	Header comments are required
+src/com/how2java/util/Page.java:4:	Header comments are required
+src/com/how2java/util/Page.java:4:	The class 'Page' is suspected to be a Data Class (WOC=14.286%, NOPA=0, NOAM=6, WMC=8)
+src/com/how2java/util/Page.java:4:	The class 'Page' is suspected to be a Data Class (WOC=14.286%, NOPA=0, NOAM=6, WMC=8)
+src/com/how2java/util/Page.java:6:	Avoid using redundant field initializer for 'start'
+src/com/how2java/util/Page.java:6:	Avoid using redundant field initializer for 'start'
+src/com/how2java/util/Page.java:6:	Field comments are required
+src/com/how2java/util/Page.java:6:	Field comments are required
+src/com/how2java/util/Page.java:6:	To avoid mistakes add a comment at the beginning of the start field if you want a default access modifier
+src/com/how2java/util/Page.java:6:	To avoid mistakes add a comment at the beginning of the start field if you want a default access modifier
+src/com/how2java/util/Page.java:6:	Use explicit scoping instead of the default package private level
+src/com/how2java/util/Page.java:6:	Use explicit scoping instead of the default package private level
+src/com/how2java/util/Page.java:7:	Field comments are required
+src/com/how2java/util/Page.java:7:	Field comments are required
+src/com/how2java/util/Page.java:7:	To avoid mistakes add a comment at the beginning of the count field if you want a default access modifier
+src/com/how2java/util/Page.java:7:	To avoid mistakes add a comment at the beginning of the count field if you want a default access modifier
+src/com/how2java/util/Page.java:7:	Use explicit scoping instead of the default package private level
+src/com/how2java/util/Page.java:7:	Use explicit scoping instead of the default package private level
+src/com/how2java/util/Page.java:8:	Avoid using redundant field initializer for 'last'
+src/com/how2java/util/Page.java:8:	Avoid using redundant field initializer for 'last'
+src/com/how2java/util/Page.java:8:	Field comments are required
+src/com/how2java/util/Page.java:8:	Field comments are required
+src/com/how2java/util/Page.java:8:	To avoid mistakes add a comment at the beginning of the last field if you want a default access modifier
+src/com/how2java/util/Page.java:8:	To avoid mistakes add a comment at the beginning of the last field if you want a default access modifier
+src/com/how2java/util/Page.java:8:	Use explicit scoping instead of the default package private level
+src/com/how2java/util/Page.java:8:	Use explicit scoping instead of the default package private level
+src/com/how2java/util/Page.java:12:	Parameter 'start' is not assigned and could be declared final
+src/com/how2java/util/Page.java:12:	Parameter 'start' is not assigned and could be declared final
+src/com/how2java/util/Page.java:18:	Parameter 'count' is not assigned and could be declared final
+src/com/how2java/util/Page.java:18:	Parameter 'count' is not assigned and could be declared final
+src/com/how2java/util/Page.java:24:	Parameter 'last' is not assigned and could be declared final
+src/com/how2java/util/Page.java:24:	Parameter 'last' is not assigned and could be declared final
+src/com/how2java/util/Page.java:28:	Parameter 'total' is not assigned and could be declared final
+src/com/how2java/util/Page.java:28:	Parameter 'total' is not assigned and could be declared final
+src/com/how2java/util/Page.java:28:	Public method and constructor comments are required
+src/com/how2java/util/Page.java:28:	Public method and constructor comments are required
+src/com/how2java/util/Page.java:30:	Avoid using if...else statements without curly braces
+src/com/how2java/util/Page.java:30:	Avoid using if...else statements without curly braces
+src/com/how2java/util/Page.java:30:	This statement should have braces
+src/com/how2java/util/Page.java:30:	This statement should have braces
+src/com/how2java/util/Page.java:32:	Avoid using if...else statements without curly braces
+src/com/how2java/util/Page.java:32:	Avoid using if...else statements without curly braces
+src/com/how2java/util/Page.java:32:	This statement should have braces
+src/com/how2java/util/Page.java:32:	This statement should have braces

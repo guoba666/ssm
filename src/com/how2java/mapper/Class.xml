@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+	PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+	<mapper namespace="com.how2java.mapper.ClassMapper">
+		<!-- 班级操作 -->
+		<select id="getClass" parameterType="string" resultType="Class">
+			select * from class_ where classId= #{classId}
+		</select>
+		
+		<select id="getAllClass" resultType="Class">
+			select * from class_
+			 <if test="page!=null">
+				<if test="page.start!=null and page.count!=null">
+                    limit #{page.start},#{page.count}
+           		</if>
+            </if>
+		</select>
+		
+		<select id="selectByGrade" parameterType="string" resultType="Class">
+			select * from class_ where gradeNumber=#{gradeNumber}
+		</select>
+		
+		<insert id="addClass" parameterType="Class">
+			insert into class_(classId,gradeNumber,gradeName,classNumber,className) 
+			values(#{classId},#{gradeNumber},#{gradeName},#{classNumber},#{className});
+		</insert>
+		
+		<update id="alterClass" parameterType="string">
+			update class_ set className=#{className} where classId=#{classId}
+		</update>
+		
+		<delete id="deleteOneClass" parameterType="string">
+			delete from class_ where classId=#{classId}
+		</delete>
+		
+		<select id="getClassCount" resultType="int">
+			select count(*) from class_
+		</select>
+		
+	</mapper>
